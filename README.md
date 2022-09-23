@@ -1,6 +1,4 @@
 Doc by `© Copyright 2010-2015 KPI FEI TUKE - Miroslav Biňas`  
-[URL DOCS](http://it4kt.cnl.sk/c/pvjc/2015/problemset.04.k.html)  
-Thanks!
 
 ***
 
@@ -159,5 +157,3 @@ V prípade, ak hráč dosiahol rovnaký počet bodov ako existujúci záznam v s
 **Remove:** `make clean`
 
 ***
-
-* #BadCode #Amateur
